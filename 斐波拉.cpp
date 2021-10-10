@@ -8,4 +8,4 @@ int fbnq(int n){
 int main(){
  cout<<fbnq(6);
  return 0;
-}
+}//最好时间复杂度：O(1)，最坏时间复杂度：O(N)，平均时间复杂度O(N)
